@@ -31,6 +31,7 @@ public class LogginLabTest {
             }
         }
     }
+    // Write a test for the method in the Test class.
     @org.junit.Test
     public void thresholdReached(){
             Integer finalLimit = 5;

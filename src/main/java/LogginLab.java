@@ -47,7 +47,4 @@ public class LogginLab {
 
      }
 
-
-
-    // Write a test for the method in the Test class.
 }
